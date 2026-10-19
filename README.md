@@ -2,7 +2,7 @@
 
 Mini katalog uygulaması Flutter kullanılarak geliştirilmiştir. Bu uygulamada, ürünler bir katalog içerisinde kullanıcıya sunulur. Kullanıcılar ürün aratabilir, ürün özelliklerini görebilir ve sepete ürün ekleyip çıkarabilirler.
 
-## Öezllikler
+## Özellikler
 
 - JSON dosyasından ürün verilerini okuma
 - Ürünleri GridView ile listeleme
