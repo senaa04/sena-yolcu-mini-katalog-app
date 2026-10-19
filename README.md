@@ -7,7 +7,7 @@ Mini katalog uygulaması Flutter kullanılarak geliştirilmiştir. Bu uygulamada
 - JSON dosyasından ürün verilerini okuma
 - Ürünleri GridView ile listeleme
 - Ürün arama
-- Ürün detay arama
+- Ürün detay görüntüleme
 - Sayfalar arası Navigator ile geçiş
 - Sepete ürün ekleme ve çıkarma
 - Sepet durumunu state ile güncelleme
@@ -31,7 +31,7 @@ git clone https://github.com/senaa04/sena-yolcu-mini-katalog-app.git
 Proje klasörüne girin:
 
 ```bash
-cd mini_katalog
+cd mini_katalog-app
 ```
 
 Gerekli Flutter bağımlılıklarını yükleyin:
